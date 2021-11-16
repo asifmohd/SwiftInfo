@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.homepage = 'https://github.com/rockbruno/SwiftInfo'
   s.authors = { 'Bruno Rocha' => 'brunorochaesilva@gmail.com' }
   s.social_media_url = 'https://twitter.com/rockbruno_'
-  s.source = { http: "https://github.com/rockbruno/SwiftInfo/releases/download/#{s.version}/SwiftInfo.zip" }
+  s.source = { http: "https://github.com/asifmohd/SwiftInfo/releases/download/#{s.version}/SwiftInfo.zip" }
   s.preserve_paths = '*'
   s.exclude_files = '**/file.zip'
 end
